@@ -1,0 +1,276 @@
+.one{
+    display: flex;
+}
+body{
+    border: 1px solid rgb(17, 17, 17);
+    width: 1200px;
+    margin-top: 40px;
+    margin-left: 500px;
+}
+.tr1{
+    background-color: whitesmoke;
+    height: 150px;
+    width: 150px;
+}
+.tr2{
+    background-color: black;
+    height: 150px;
+    width: 150px;
+
+}
+.tr3{
+    background-color: whitesmoke;
+    height: 150px;
+    width: 150px;
+}
+.tr4{
+    background-color: rgb(10, 10, 10);
+    height: 150px;
+    width: 150px
+
+}
+.tr5{
+    background-color: white;
+    height: 150px;
+    width: 150px;
+}
+.tr5>img{
+    padding-left: 40px;
+}
+
+.tr6{
+    background-color: black;
+    height: 150px;
+    width: 150px
+
+}
+.tr7{
+    background-color: whitesmoke;
+    height: 150px;
+    width: 150px;
+}
+.tr8{
+    background-color: black;
+    height: 150px;
+    width: 150px
+}
+.two{
+    display: flex;
+}
+.con1{
+    background-color: black;
+    height: 150px;
+    width: 150px
+}
+.con2{
+    background-color: whitesmoke;
+    height: 150px;
+    width: 150px;
+}
+
+.con3{
+    background-color: black;
+    height: 150px;
+    width: 150px
+}
+.con4{
+    background-color: whitesmoke;
+    height: 150px;
+    width: 150px
+}
+.con5{
+    background-color: black;
+    height: 150px;
+    width: 150px
+}
+.con6{
+    background-color: whitesmoke;
+    height: 150px;
+    width: 150px
+}
+.con7{
+    background-color: black;
+    height: 150px;
+    width: 150px
+}
+.con8{
+    background-color: whitesmoke;
+    height: 150px;
+    width: 150px
+}
+.box1{
+    background-color: whitesmoke;
+    height: 150px;
+    width: 150px
+}
+.box2{
+    background-color: black;
+    height: 150px;
+    width: 150px
+}
+.three{
+    display: flex;
+}
+.box3{
+    background-color: whitesmoke;
+    height: 150px;
+    width: 150px
+}
+.box4{
+    background-color: black;
+    height: 150px;
+    width: 150px
+}
+.box5{
+    background-color: whitesmoke;
+    height: 150px;
+    width: 150px
+}
+.box6{
+    background-color: black;
+    height: 150px;
+    width: 150px
+}
+.box7{
+    background-color: whitesmoke;
+    height: 150px;
+    width: 150px
+}
+.box8{
+    background-color: black;
+    height: 150px;
+    width: 150px
+}
+.four{
+    display: flex;
+}
+.contect1{
+    background-color: black;
+    height: 150px;
+    width: 150px
+}
+.contect2{
+    background-color: whitesmoke;
+    height: 150px;
+    width: 150px
+}
+.contect3{
+    background-color: black;
+    height: 150px;
+    width: 150px
+}
+.contect4{
+    background-color: whitesmoke;
+    height: 150px;
+    width: 150px
+}
+.contect5{
+    background-color: black;
+    height: 150px;
+    width: 150px
+}
+.contect6{
+    background-color: whitesmoke;
+    height: 150px;
+    width: 150px
+}
+.contect7{
+    background-color: black;
+    height: 150px;
+    width: 150px
+}
+.contect8{
+    background-color: whitesmoke;
+    height: 150px;
+    width: 150px
+}
+.five{
+    display: flex;
+}
+.boxs1{
+    background-color: whitesmoke;
+    height: 150px;
+    width: 150px
+}
+.boxs2{
+    background-color: black;
+    height: 150px;
+    width: 150px
+}
+.boxs3{
+    background-color: whitesmoke;
+    height: 150px;
+    width: 150px
+}
+.boxs4{
+    background-color: black;
+    height: 150px;
+    width: 150px
+}
+.boxs5{
+    background-color: whitesmoke;
+    height: 150px;
+    width: 150px
+}
+.boxs6{
+    background-color: black;
+    height: 150px;
+    width: 150px
+}
+.boxs7{
+    background-color: whitesmoke;
+    height: 150px;
+    width: 150px
+}
+.boxs8{
+    background-color: black;
+    height: 150px;
+    width: 150px
+}
+.six{
+    display: flex;
+}
+.cons1{
+    background-color: black;
+    height: 150px;
+    width: 150px
+}
+.cons2{
+    background-color: whitesmoke;
+    height: 150px;
+    width: 150px
+}
+.cons3{
+    background-color: black;
+    height: 150px;
+    width: 150px
+}
+.cons4{
+    background-color: whitesmoke;
+    height: 150px;
+    width: 150px
+}
+.cons5{
+    background-color: black;
+    height: 150px;
+    width: 150px
+}
+.cons6{
+    background-color: whitesmoke;
+    height: 150px;
+    width: 150px
+}
+.cons7{
+    background-color: black;
+    height: 150px;
+    width: 150px
+}
+.cons8{
+    background-color: whitesmoke;
+    height: 150px;
+    width: 150px
+}
+
+.cons5>img{
+     padding-left: 30px;
+}
